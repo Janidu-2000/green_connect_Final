@@ -69,13 +69,14 @@ In conclusion, the development of a mobile app using Flutter presents a transfor
 
 👏 Let's take a moment to acknowledge and thank the following contributors (in no particular order):
 
+- [@Janidu-2000](https://github.com/Janidu-2000)
 - [@avishka2k](https://github.com/avishka2k)
 - [@IsuruUSenarathne](https://github.com/IsuruUSenarathne)
 - [@JanithaChamaka](https://github.com/JanithaChamaka)
 - [@Hiruni2000](https://github.com/Hiruni2000)
 - [@seniyadewmina](https://github.com/seniyadewmina)
 - [@TharushiVidanapathirana](https://github.com/TharushiVidanapathirana)
-- [@Janidu-2000](https://github.com/Janidu-2000)
+
 
 
 Each of you has left your mark on the project, and we truly value your contributions. Whether it's through code, documentation, issue reporting, or community support, your efforts have been invaluable.
